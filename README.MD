@@ -10,6 +10,6 @@ Projeto de ECS na AWS com algumas modificacoes do projeto original, pronto para 
 
 ## Details
 
-Pequeno projeto feito com base no projeto da rede Alura, foi modificado algumas pequenas coisa por questoes de compatibilidade de versoes, projeto ja pronto para ser usado em producao.
+Small project based on the Alura network project, a few small things were modified for version compatibility reasons, the project is now ready to be used in production.
 
 #vitrinedev
